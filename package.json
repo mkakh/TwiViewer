@@ -1,0 +1,15 @@
+{
+  "name": "twi",
+  "version": "1.0.0",
+  "description": "A Electron tweetdeck viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mkakh/TwiViewer",
+  "author": "mkakh",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
