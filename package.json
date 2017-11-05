@@ -1,5 +1,5 @@
 {
-  "name": "twi",
+  "name": "TwiViewer",
   "version": "1.0.0",
   "description": "A Electron tweetdeck viewer",
   "main": "main.js",
